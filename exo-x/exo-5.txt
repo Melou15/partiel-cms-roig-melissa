@@ -1,0 +1,7 @@
+Exo-5 Dans un fichier txt écrire une requête qui permet d'afficher tout les noms de toutes les personnes ayant une voiture de couleur rouge trié par nom par ordre décroissant
+
+
+SELECT User.lastName, Car.color
+FROM User, Car 
+WHERE Car.color LIKE "%ROUGE%" OR "%rouge%"
+ORDER BY DESC;
