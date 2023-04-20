@@ -1,0 +1,5 @@
+Différence entre SQL et NoSQL : 
+
+Le SQL fait appel à des requête telles que SELECT, INSERT, UPDATE et DELETE, c'est une base de données relationnelle, structurée et normalisée. On l'utilise pour les applications transactionnelles et les opérations qui impliquent des jointures de tables. Amazon par exemple. 
+
+Le NoSQL est une approche de base de données non relationnelle, souple et évolutive. On l'utilise pour les applications orientées vers les données et pour les données non structurées. Netflix par exemple.
