@@ -1,0 +1,6 @@
+Définition d'un CMS : 
+
+Un CMS (Content Management System) permet de créer des sites vitrine, des e-commerce, des blogs et bien plus encore. Cela permet de créer un site sans avoir forcement de connaissances des différents languages existants pour le developpement web (html,css,js,..). 
+Sur un CMS il est possible d'ajouter des photos, des vidéos, des textes comme on le souhaite en les important depuis notre ordinateur, voir quelques fois, selon le theme utiliser pour construire un site grace à des plug-in youtube, spotify par exempke peuvent directmeent être intégrer. 
+De nombreux templates existent d'ailleurs déjà pour d'autant plus facilité la création de ceux-ci sans avoir aucune connaissance de base sur la création d'un site. 
+Comme CMS, il existe Wordpress par exemple que j'utilise personnelement, sinon il existe aussi Joomla et Drupal. 
