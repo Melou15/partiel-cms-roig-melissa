@@ -1,0 +1,3 @@
+Exo-6 Dans un fichier txt écrire une requête qui permet d'ajouter la marque Ferrari dans la table brand
+
+INSERT INTO 'Brand'(brandLabel) VALUES ('Ferrari');
